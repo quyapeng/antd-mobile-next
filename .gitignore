@@ -18,3 +18,8 @@
 /src/.umi-production
 /src/.umi-test
 /.env.local
+
+/.mfsu-production/
+/out/
+/.next/
+
